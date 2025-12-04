@@ -156,6 +156,27 @@ See [`environment.yml`](environment.yml) for complete list.
 
 ---
 
+## 💼 Skills Demonstrated
+
+### Technical Skills
+- **Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn)
+- **Bioinformatics:** Single-cell RNA-seq analysis, Scanpy, scvi-tools
+- **Machine Learning:** Variational autoencoders (SCVI), dimensionality reduction (UMAP, PCA)
+- **Statistical Analysis:** Differential expression, Wilcoxon rank-sum tests
+- **Workflow Management:** Jupyter notebooks, command-line tools, HPC computing
+- **Version Control:** Git, GitHub, reproducible research practices
+
+### Domain Knowledge
+- Single-cell genomics and transcriptomics
+- COVID-19 pathophysiology and lung biology
+- Cell-type identification and annotation
+- Data integration and batch correction
+
+### Soft Skills
+- Scientific communication (presentation, technical writing)
+- Reproducible research methodology
+- Project documentation and organization
+
 ## 🎓 Educational Use
 
 This project was developed as part of **BINF 6430: Single-Cell Genomics** at Northeastern University. It demonstrates:
@@ -163,7 +184,6 @@ This project was developed as part of **BINF 6430: Single-Cell Genomics** at Nor
 - Integration of public datasets
 - Best practices in computational biology (version control, environment management, documentation)
 
-**Instructor:** [Your Instructor's Name]  
 **Semester:** Fall 2024
 
 ---
