@@ -229,7 +229,7 @@ This project is licensed under the **MIT License** - see [`LICENSE`](LICENSE) fi
 
 **Vedant Kulkarni**  
 GitHub: [@VedKulkarni01](https://github.com/VedKulkarni01)  
-Email: [your.email@northeastern.edu]
+Email: kulkarni.vedant012@gmail.com
 
 ---
 
