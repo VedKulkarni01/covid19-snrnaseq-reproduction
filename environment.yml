@@ -1,0 +1,36 @@
+name: covid19-snrnaseq
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - numpy=2.3.3
+  - pandas=2.3.3
+  - scipy=1.16.3
+  - matplotlib=3.10.7
+  - seaborn=0.13.2
+  - scikit-learn=1.7.2
+  - ipykernel
+  - jupyter
+  - jupyterlab
+  - nb_conda_kernels
+  
+  # Single-cell packages
+  - scanpy=1.11.5
+  - anndata=0.12.6
+  - leidenalg
+  - python-igraph
+  
+  # Deep learning
+  - pytorch=2.9.0
+  - pytorch-cuda=12.8
+  - pip:
+      - scvi-tools==1.4.0.post1
+      - gseapy==1.1.10
+      - session-info2==0.2.3
+      - pyro-ppl==1.9.1
+      - pytorch-lightning==2.5.6
+      - torchmetrics==1.8.2
+      - lightning==2.5.6

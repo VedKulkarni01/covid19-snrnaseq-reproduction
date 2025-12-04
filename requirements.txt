@@ -1,0 +1,37 @@
+# Core scientific computing
+numpy==2.3.3
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.7.2
+
+# Plotting
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Single-cell analysis
+scanpy==1.11.5
+anndata==0.12.6
+leidenalg
+python-igraph
+
+# Deep learning (PyTorch with CUDA 12.8)
+torch==2.9.0
+pytorch-lightning==2.5.6
+lightning==2.5.6
+torchmetrics==1.8.2
+
+# scVI and dependencies
+scvi-tools==1.4.0.post1
+pyro-ppl==1.9.1
+
+# Enrichment analysis
+gseapy==1.1.10
+
+# Utilities
+session-info2==0.2.3
+tqdm==4.67.1
+
+# Jupyter support
+ipykernel
+jupyter
+jupyterlab
