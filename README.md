@@ -184,7 +184,7 @@ This project was developed as part of **BINF 6430: Single-Cell Genomics** at Nor
 - Integration of public datasets
 - Best practices in computational biology (version control, environment management, documentation)
 
-**Semester:** Fall 2024
+**Semester:** Fall 2025
 
 ---
 
